@@ -45,8 +45,8 @@ const AboutSection = () => {
             </p>
             <p className="text-muted-foreground leading-relaxed">
               My journey in software development has equipped me with skills in 
-              full-stack web development using technologies like JavaScript, Node.js, 
-              Express.js, and various databases. I also have a strong foundation in 
+              full-stack web development using technologies like Java, SpringBoot, 
+              Hibernate, and various databases. I also have a strong foundation in 
               Java and Data Structures & Algorithms.
             </p>
             <p className="text-muted-foreground leading-relaxed">

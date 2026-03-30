@@ -125,11 +125,11 @@ const HeroSection = () => {
                   </p>
 
                   <p className="pl-5">
-                    role: <span className="text-[hsl(150_50%_65%)]">"Full Stack Developer (MERN Stack)"</span>,
+                    role: <span className="text-[hsl(150_50%_65%)]">"Java Full Stack Developer"</span>,
                   </p>
 
                   <p className="pl-5">
-                    skills: ["MongoDB", "Express JS", "React JS", "Node JS"]
+                    skills: ["Spring Boot", "Hibernate", "MySQL", "Java"]
                   </p>
 
                   <p>{"};"}</p>

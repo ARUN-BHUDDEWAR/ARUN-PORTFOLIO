@@ -14,7 +14,7 @@ const projects = [
     title: "Circle Funds",
     description:
       "A peer-to-peer lending platform that connects borrowers with lenders directly. Features secure transactions, user verification, loan management, and real-time tracking of lending activities.",
-    tech: ["Node.js", "Express.js", "MongoDB", "JavaScript"],
+    tech: ["Spring Boot", "Hibernate", "MySQL", "Java"],
     icon: Wallet,
     color: "from-primary/15 to-primary/5",
   },

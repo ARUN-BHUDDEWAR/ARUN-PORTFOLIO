@@ -5,13 +5,13 @@ const skillCategories = [
   title: "Frontend Development",
   description: "Building responsive and interactive user interfaces",
   icon: Code,
-  skills: ["HTML5", "CSS3", "JavaScript", "React JS", "Bootstrap", "Tailwind CSS"]
+  skills: ["HTML5", "CSS3", "JavaScript"]
 },
 {
   title: "Backend Development",
   description: "Creating robust server-side applications & APIs",
   icon: Server,
-  skills: ["Node.js", "Express.js", "REST APIs", "EJS"]
+  skills: ["Spring Boot", "Hibernate", "MySQL", "Java","Rest API's"]
 },
 {
   title: "Database",
